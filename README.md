@@ -1,5 +1,5 @@
-#BASE LEARN PROGRAMS
-learning losidity program on base chain
+# BASE LEARN PROGRAMS
+learning sosidity program on base chain
 
 ✅ Base Learn Newcomer
 ✅ Base Learn Acolyte
